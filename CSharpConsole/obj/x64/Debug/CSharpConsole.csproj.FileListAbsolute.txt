@@ -1,0 +1,7 @@
+C:\school\ApexSolutions\TestCase1\x64\Debug\CSharpConsole.exe.config
+C:\school\ApexSolutions\TestCase1\x64\Debug\CSharpConsole.exe
+C:\school\ApexSolutions\TestCase1\x64\Debug\CSharpConsole.pdb
+C:\school\ApexSolutions\TestCase1\CSharpConsole\obj\x64\Debug\CSharpConsole.csprojAssemblyReference.cache
+C:\school\ApexSolutions\TestCase1\CSharpConsole\obj\x64\Debug\CSharpConsole.csproj.CoreCompileInputs.cache
+C:\school\ApexSolutions\TestCase1\CSharpConsole\obj\x64\Debug\CSharpConsole.exe
+C:\school\ApexSolutions\TestCase1\CSharpConsole\obj\x64\Debug\CSharpConsole.pdb
